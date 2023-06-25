@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\ToString\ToString\bin\Debug\netcoreapp3.1\ToString.exe
+C:\Users\Aydan\Desktop\ToString\ToString\bin\Debug\netcoreapp3.1\ToString.deps.json
+C:\Users\Aydan\Desktop\ToString\ToString\bin\Debug\netcoreapp3.1\ToString.runtimeconfig.json
+C:\Users\Aydan\Desktop\ToString\ToString\bin\Debug\netcoreapp3.1\ToString.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\ToString\ToString\bin\Debug\netcoreapp3.1\ToString.dll
+C:\Users\Aydan\Desktop\ToString\ToString\bin\Debug\netcoreapp3.1\ToString.pdb
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.dll
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.pdb
+C:\Users\Aydan\Desktop\ToString\ToString\obj\Debug\netcoreapp3.1\ToString.genruntimeconfig.cache
